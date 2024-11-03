@@ -3,7 +3,7 @@
 ## 1. 프로젝트 개요
 사용자의 영상과 음성을 분석하여 감정 상태를 파악하고, 이에 따른 맞춤형 콘텐츠(명언, 음악 등)를 제공하는 서비스입니다.
 
-## 2. 기능적 요구사항
+## 2. 주요 기능
 
 ### 2.1 프론트엔드 인터페이스
 
@@ -81,19 +81,25 @@
 5. 음악 추천/생성: `facebook/musicgen-small`
 6. 이미지 생성: `runwayml/stable-diffusion-v1-5`
 
-## 4. 비기능적 요구사항
-
-### 4.1 성능 요구사항
-- 영상 처리 지연시간: 최대 2초
-- 동시 사용자 처리: 최소 100명
-- 데이터 저장 용량: 사용자당 1GB
-
-### 4.2 보안 요구사항
-- 사용자 데이터 암호화
-- 안전한 인증 시스템
-- 개인정보 보호 준수
-
-### 4.3 사용성 요구사항
-- 직관적인 UI/UX
-- 반응형 디자인
-- 다국어 지원 (한국어/영어)
+### 기여자
+<h3 align="center">🚀프로젝트 기간</h3>
+  <p align="center">2024.10.28 ~ 11.02</p>
+  <br>
+  <h3 align="center">🚀기여자</h3>
+  <br>
+  <table align="center">
+    <tr>
+       <td align="center">
+        <strong align="center">김지원</strong><br>
+        <img src="https://avatars.githubusercontent.com/JJiwonn" width="100" height="100"><br>
+        <a href="https://github.com/JJiwonn">GitHub</a>
+        <strong align="center">김화연</strong><br>
+        <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
+        <a href="https://github.com/KHY90">GitHub</a>
+                <strong align="center">신상범</strong><br>
+        <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
+        <a href="https://github.com/sashin92">GitHub</a>
+                <strong align="center">조수현</strong><br>
+        <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
+        <a href="https://github.com/chosuhyeon0812">GitHub</a>
+      </td>
