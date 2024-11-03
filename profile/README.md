@@ -9,31 +9,32 @@
 <br>
 <h3 align="center">🚀 기여자</h3>
 <br>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center;">
-    <strong>김지원</strong><br>
-    <img src="https://avatars.githubusercontent.com/JJiwonn" width="100" height="100"><br>
-    <a href="https://github.com/JJiwonn">GitHub</a>
-  </div>
-  
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center;">
-    <strong>김화연</strong><br>
-    <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
-    <a href="https://github.com/KHY90">GitHub</a>
-  </div>
-  
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center;">
-    <strong>신상범</strong><br>
-    <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
-    <a href="https://github.com/sashin92">GitHub</a>
-  </div>
-  
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; text-align: center;">
-    <strong>조수현</strong><br>
-    <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
-    <a href="https://github.com/chosuhyeon0812">GitHub</a>
-  </div>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>김지원</strong><br>
+      <img src="https://avatars.githubusercontent.com/JJiwonn" width="100" height="100"><br>
+      <a href="https://github.com/JJiwonn">GitHub</a>
+    </td>
+    <td align="center">
+      <strong>김화연</strong><br>
+      <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
+      <a href="https://github.com/KHY90">GitHub</a>
+    </td>
+    <td align="center">
+      <strong>신상범</strong><br>
+      <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
+      <a href="https://github.com/sashin92">GitHub</a>
+    </td>
+    <td align="center">
+      <strong>조수현</strong><br>
+      <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
+      <a href="https://github.com/chosuhyeon0812">GitHub</a>
+    </td>
+  </tr>
+</table>
+
 
 ## 2. 기능적 요구사항
 

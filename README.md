@@ -81,30 +81,3 @@
 5. 음악 추천/생성: `facebook/musicgen-small`
 6. 이미지 생성: `runwayml/stable-diffusion-v1-5`
 
-### 기여자
-<h3 align="center">🚀프로젝트 기간</h3>
-  <p align="center">2024.10.28 ~ 11.02</p>
-  <br>
-  <h3 align="center">🚀기여자</h3>
-  <br>
-  <table align="center">
-    <tr>
-       <td align="center">
-        <strong align="center">김지원</strong><br>
-        <img src="https://avatars.githubusercontent.com/JJiwonn" width="100" height="100"><br>
-        <a href="https://github.com/JJiwonn">GitHub</a>
-              </td>
-        <strong align="center">김화연</strong><br>
-        <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
-        <a href="https://github.com/KHY90">GitHub</a>
-              </td>
-                <strong align="center">신상범</strong><br>
-        <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
-        <a href="https://github.com/sashin92">GitHub</a>
-              </td>
-                <strong align="center">조수현</strong><br>
-        <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
-        <a href="https://github.com/chosuhyeon0812">GitHub</a>
-              </td>
-    </tr>
-  </table>
