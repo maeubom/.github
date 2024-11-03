@@ -93,13 +93,18 @@
         <strong align="center">김지원</strong><br>
         <img src="https://avatars.githubusercontent.com/JJiwonn" width="100" height="100"><br>
         <a href="https://github.com/JJiwonn">GitHub</a>
+              </td>
         <strong align="center">김화연</strong><br>
         <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
         <a href="https://github.com/KHY90">GitHub</a>
+              </td>
                 <strong align="center">신상범</strong><br>
         <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
         <a href="https://github.com/sashin92">GitHub</a>
+              </td>
                 <strong align="center">조수현</strong><br>
         <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
         <a href="https://github.com/chosuhyeon0812">GitHub</a>
-      </td>
+              </td>
+    </tr>
+  </table>
