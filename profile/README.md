@@ -49,14 +49,14 @@
 
 - [마음:봄 PPT](https://www.canva.com/design/DAGVN02EJC0/vHuMe6R5s6j1BkY2YD_52g/edit)
 
-<br><br>
+<br>
 ## 2. 주요 기능
 - 영상 녹화(비디오, 음성)
 - 비디오 감정 분석
 - 오디오 -> 텍스트로 변환 -> 텍스트 요약 -> 감정 분석
 - 비디오와 오디오로 분석된 감정을 바탕으로 명언과 이미지 생성하여 고객에게 전달
 
-## 3. 기술 스택
+## 2. 기술 스택
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +74,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### 3.3 AI 모델
+### 2.1 AI 모델
 1. 사진 감정 인식: `motheecreator/vit-Facial-Expression-Recognition` (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral)
 2. 음성-텍스트 변환: `openai/whisper-large-v3-turbo`
 3. 텍스트 요약: `lcw99/t5-base-korean-text-summary` / `csebuetnlp/mT5_multilingual_XLSum`
@@ -82,5 +82,4 @@
 5. 음악 추천/생성: `facebook/musicgen-small`
 6. 명언 생성 : `facebook/opt-350m`
 7. 이미지 생성: `stabilityai/stable-diffusion-xl-base-1.0`
-8. 영어 번역 : ``
 
