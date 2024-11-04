@@ -49,7 +49,7 @@
 
 - [마음:봄 PPT](https://www.canva.com/design/DAGVN02EJC0/vHuMe6R5s6j1BkY2YD_52g/edit)
 
-- [마음:봄 Wiki]([https://github.com/maeubom/.github/wiki/%EB%A7%88%EC%9D%8C:%EB%B4%84-(%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B4%85%EB%8B%88%EB%8B%A4](https://github.com/maeubom/.github/wiki/%EB%A7%88%EC%9D%8C:%EB%B4%84-(%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B4%85%EB%8B%88%EB%8B%A4.)))
+- [마음:봄 Wiki](https://github.com/maeubom/.github/wiki/%EB%A7%88%EC%9D%8C:%EB%B4%84-(%EB%8B%B9%EC%8B%A0%EC%9D%98-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B4%85%EB%8B%88%EB%8B%A4.))
   
 <br>
 
