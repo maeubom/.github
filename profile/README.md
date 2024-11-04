@@ -4,10 +4,10 @@
 사용자의 영상과 음성을 분석하여 감정 상태를 파악하고, 이에 따른 맞춤형 콘텐츠(명언, 음악 등)를 제공하는 서비스입니다.
 
 ### 기여자
-<h3 align="center">🚀 프로젝트 기간</h3>
+<h3 align="center">📹 프로젝트 기간</h3>
 <p align="center">2024.10.28 ~ 11.02</p>
 <br>
-<h3 align="center">🚀 기여자</h3>
+<h3 align="center">📹 기여자</h3>
 <br>
 
 <table align="center">
@@ -36,7 +36,7 @@
 </table>
 
 <br>
-<h3 align="center">🚀 프로젝트 아키텍쳐</h3>
+<h3 align="center">📹 프로젝트 아키텍쳐</h3>
 <br>
 
 ![아키텍처](https://github.com/user-attachments/assets/4608b3f2-83f1-46e4-8447-c1828e9832d2)
