@@ -39,7 +39,7 @@
 <h3 align="center">🚀 프로젝트 아키텍쳐</h3>
 <br>
 
-![아키텍처](https://github.com/user-attachments/assets/aabda15b-20f4-4a75-9d1f-2c3ead2b08f0)
+![아키텍처](https://github.com/user-attachments/assets/4608b3f2-83f1-46e4-8447-c1828e9832d2)
 
 
 <br><br>
