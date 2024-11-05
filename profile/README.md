@@ -27,11 +27,6 @@
       <img src="https://avatars.githubusercontent.com/sashin92" width="100" height="100"><br>
       <a href="https://github.com/sashin92">GitHub</a>
     </td>
-    <td align="center">
-      <strong>조수현</strong><br>
-      <img src="https://avatars.githubusercontent.com/chosuhyeon0812" width="100" height="100"><br>
-      <a href="https://github.com/chosuhyeon0812">GitHub</a>
-    </td>
   </tr>
 </table>
 
